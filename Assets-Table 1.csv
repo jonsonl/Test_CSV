@@ -1,0 +1,109 @@
+ID;Asset Name (Deutsch);Asset Name (Englisch);Al / Ap;Damage Scenarios triggered by compromising leaf Assets
+0;Istbremsmoment;;P;
+1;Istantriebsgrößen;;P;
+2;Sollbremsmoment;;Leaf;0, 1, 2
+3;Sollantriebsgrößen;;Leaf;0, 1, 2
+4;Sollradlenkwinkel;;Leaf;0, 1, 2
+5;Qualitätsvektoren & Diagnosedaten aller Dienste;;P;
+6;Dynamic Module Firmware;;Leaf;0, 1, 2
+7;Istradlenkwinkel;;P;
+8;Solltrajektorie ENU;;P;
+9;Solltrajektorie GCS;;P;
+10;Brainstem Firmware;;Leaf;0, 1, 2, 3, 4, 6, 7, 8, 9, 10
+11;Fahrzeugumgebungsmodell;;P;
+12;Cerebrum Firmware;;Leaf;0, 1, 2, 3, 4, 6, 7, 8, 9, 10
+13;Grid Map;;P;
+14;Sensor Module Firmware;;Leaf;0, 1, 2, 6
+15;LIDARmessung;;P;
+16;Trackliste;;P;
+17;Digitale Karte;;P;
+18;Router Firmware;;Leaf;3, 4, 5, 6, 8
+19;Modifiziertes Fahrzeugumfeldmodell;;P;
+20;Kartengeometrie;;P;
+21;Orientierung;;P;
+22;Position;;P;
+23;Drehraten;;P;
+24;Geschwindigkeit;;P;
+25;Route & Mission;;Leaf;3, 4, 6, 7, 8
+26;Trajektorienplanung;;P;
+27;Power Supply Module Firmware;;Leaf;2, 7, 8
+28;Kameraobjektboxen;;P;
+29;LIDARdaten;;P;
+30;Spannung;;Leaf;0, 1, 2
+31;Batteriezustandsdaten;;P;
+32;Batteriestatus;;P;
+33;Interior Air Conditioning Firmware;;Leaf;6, 7
+34;Thermal Management Firmware;;P;
+35;Ladestand Batterie;;P;
+36;Freigabesignal zum losfahren;;Leaf;0, 1
+37;Außentemperatur;;P;
+38;Benötigte Leistung;;Leaf;6, 7
+39;Innenraumtemperatur;;Leaf;6
+40;Thermomanagementzustandsdaten;;P;
+41;Backup/Stream der Selsbtwahrnehmung;;P;
+42;Daten aus InfoBiene;;P;
+43;Fahrdynamikgrenzen/Leistungsfähigkeit;;P;
+44;Fahrzeugabmaße;;P;
+45;Kollektives Gedächtnis;;P;
+46;Externes Umfeldmodell;;P;
+47;Cloud Fähigkeiten;;P;
+48;Verfügbarkeit der Fahrzeuge;;Leaf;6
+49;Bestellanfrage per App;;Leaf;6, 8
+50;Bezahlung per App;;Leaf;6, 8
+51;Gefiltertes Fahrzeugumgebungsmodell;;P;
+52;LIDARvorverarbeitung;;P;
+53;Bestätigter Teleoperationsmodus;;P;
+54;Fahrzustand;;P;
+55;Audiostream;;P;
+56;Steuersignale Trajektoriensteuerung;;P;
+57;Modifikation am Fahrzeugumfeldmodell;;P;
+58;Steuersignale Direkte Steuerung;;P;
+59;Angefragter Teleoperationsmodus;;P;
+60;Fahrzeugzustand;;P;
+61;Korrigierter Fahrzeugzustand;;P;
+62;Sollbewegungsgrößen;;Leaf;0, 1, 2
+63;Teleoperation;;P;
+64;Fahrzeugpose;;P;
+65;FZS Firmware;;Leaf;3, 7, 8
+66;Beschleunigung;;P;
+67;Schwimmwinkel;;P;
+68;Kamerabild;;P;
+69;Videostream;;P;
+70;Kamerabildauswertung;;P;
+71;Bauteiltemperaturn;;P;
+72;Restfahrstrecke;;P;
+73;Geplantes Verhalten;;Leaf;1 -> relates to external HMI displaying the planned behaviour of the car
+74;Status Bremse;;Leaf;1 -> relates to external HMI displaying the planned behaviour of the car
+75;LIDARobjektboxen;;P;
+76;LIDAR UDP Pakete;;P;
+77;LIDARrohdaten;;P;
+78;Differenzmomentanforderung;;P;
+79;Door command;;P;
+80;Internal HMI Firmware;;P;
+81;Target door behaviour;;Leaf;6
+82;Actual door behaviour;;P;
+83;Door control Firmware;;P;
+84;Window command;;P;
+85;Target window behaviour;;Leaf;6
+86;Actual window behaviour;;P;
+87;Window control Firmware;;P;
+88;Horn command;;P;
+89;Target horn behaviour;;Leaf;6
+90;Actual horn behaviour;;P;
+91;Horn Firmware;;P;
+92;Headlight command;;P;
+93;Target headlight behaviour;;Leaf;1, 7
+94;Actual headlight behaviour;;P;
+95;Headlight Firmware;;P;
+96;Taillight command;;P;
+97;Target taillight behaviour;;Leaf;1, 7
+98;Actual taillight behaviour;;P;
+99;Taillight Firmware;;P;
+100;Indicator command;;P;
+101;Target indicator behaviour;;Leaf;1, 7
+102;Actual indicator behaviour;;P;
+103;Indicator Firmware;;P;
+104;Handling command;;P;
+105;Target handling behaviour;;Leaf;10
+106;Actual handling behaviour;;P;
+107;UR10 Robot Firmware;;P;
