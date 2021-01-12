@@ -1,0 +1,12 @@
+ID,Description,Safety,Financial,Operational,Privacy,Weighted Impact Rating,Trigger ID
+0,Uncontrolled driving behaviour (without causing fatalities),1/3,1/2,1/2,0,"0,321",0
+1,Car crash causing fatalities,1/2,1/2,1/2,0,"0,438",1
+2,"Car is unroadworthy ",0,1/2,1/2,0,"0,087",2
+3,Manipulated traffic routing,1/3,1/6,1/2,0,"0,280",3
+4,Causing traffic jam,0,1/6,1/6,0,"0,029",4
+5,Switching off mobility of entire vehicle network,0,1/2,1/2,0,"0,087",5
+6,Inconveniences for passengers which does not entail financial or physical human damage,0,0,1/3,0,"0,017",6
+7,Car runs out of battery,1/6,1/2,1/2,0,"0,204",7
+8,Invasion of privacy,0,1/2,0,1/2,"0,122",8
+9,Battery degradation,0,1/2,1/3,0,"0,078",9
+10,Packages do not get delivered,0,1/2,1/2,0,"0,087",10

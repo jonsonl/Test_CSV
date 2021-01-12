@@ -1,0 +1,33 @@
+Trigger ID,ECU,ECU ID
+"0,1,2",Brainstem,0
+"0,1,2",Dynamic Module,1
+"1,6,8",Sensor Module,2
+"0,1,2",Cerebrum,3
+"3,7,8",FZS,4
+"2,9",Power Supply Module,5
+6,Thermal Management,6
+6,Interior Air Conditioning,7
+0,Ultrasound,8
+"1,3",PTP-Master,9
+10,Handling Control Unit,10
+10,UR10 Robot,11
+10,Rotating Bezel,12
+10,End Effector,13
+6,Speaker,14
+1,External HMI,15
+6,Internal HMI,16
+6,Door Control,17
+"0,1",CAN-Ethernet,18
+"0,1,2,8",Switches,19
+"0,1,2,3,4,5,8",Router,20
+6,Speaker Control Room,21
+6,iHMI (Taxi),22
+0,IP Camera,23
+6,Horn,24
+"1,7",Headlights,25
+"1, 7",Indicators,26
+"1,7",Taillights,27
+6,Window Control,28
+0,LIDAR,29
+0,Radar,30
+0,Greyscale Camera,31
