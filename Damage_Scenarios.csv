@@ -1,0 +1,11 @@
+ID,Description,Safety,Financial,Operational,Privacy,Weighted Impact Rating,Trigger ID,Comments
+0,Uncontrolled driving behaviour,1/2,1/2,1/2,0,"0,438",0,Can lead to fatalities
+1,"Car is unroadworthy ",0,1/2,1/2,0,"0,087",2,Car is not drivable
+2,Manipulated vehicle routing,1/6,1/6,1/2,0,"0,163",3,The vehicle route is modified
+3,Causing traffic jam,0,1/6,1/6,0,"0,029",4,-
+4,Switching off mobility of entire vehicle network,0,1/2,1/2,0,"0,087",5,-
+5,Passenger inconveniences,0,0,1/3,0,"0,017",6,Which does not entail financial or physical human damage
+6,Car runs out of battery,1/6,1/2,1/2,0,"0,204",7,"Due to tempered lights "
+7,Invasion of privacy,0,1/2,0,1/2,"0,122",8,-
+8,Battery degradation,0,1/2,1/3,0,"0,078",9,Due to manipulated Battery Management ECU
+9,Packages do not get delivered,0,1/2,1/2,0,"0,087",10,-
